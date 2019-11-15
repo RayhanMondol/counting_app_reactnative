@@ -1,0 +1,47 @@
+const apiData = [
+    {
+    recipe_id:'1',
+    recipe_name:'Alu',
+    recipe_img_url:'https://cdn.chaldal.net/_mpimage/guava-thai-net-weight-50-gm-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D26172&q=low&v=1&w=600&webp=1',
+    recipe_procedure:'none'
+    },
+    {
+        recipe_id:'2',
+        recipe_name:'Potol',
+        recipe_img_url:'https://cdn.chaldal.net/_mpimage/malta-net-weight-50-gm-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D28590&q=low&v=1&w=600&webp=1',
+        recipe_procedure:'none'
+    },
+    {
+        recipe_id:'2',
+        recipe_name:'Gom',
+        recipe_img_url:'https://cdn.chaldal.net/_mpimage/chompa-banana-12-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D31723&q=low&v=1&w=600&webp=1',
+        recipe_procedure:'none'
+    },
+    {
+        recipe_id:'2',
+        recipe_name:'Chal',
+        recipe_img_url:'https://cdn.chaldal.net/_mpimage/guava-thai-net-weight-50-gm-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D26172&q=low&v=1&w=600&webp=1',
+        recipe_procedure:'none'
+    },
+    ,
+    {
+        recipe_id:'2',
+        recipe_name:'Dal',
+        recipe_img_url:'https://cdn.chaldal.net/_mpimage/guava-thai-net-weight-50-gm-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D26172&q=low&v=1&w=600&webp=1',
+        recipe_procedure:'none'
+    },
+    {
+        recipe_id:'2',
+        recipe_name:'Phototo',
+        recipe_img_url:'https://cdn.chaldal.net/_mpimage/paka-pape-net-weight-50-gm-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D23193&q=low&v=1&w=600&webp=1',
+        recipe_procedure:'none'
+    },
+    {
+        recipe_id:'2',
+        recipe_name:'Muri',
+        recipe_img_url:'https://cdn.chaldal.net/_mpimage/orange-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D34653&q=low&v=1&w=600&webp=1',
+        recipe_procedure:'none'
+    },
+];
+
+export default apiData;
